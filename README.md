@@ -1,4 +1,4 @@
-# trade_notebook
-Trade script use python pandas for write test code 
+# trade_scripts
+Trade script use python pandas 
 
 These files can run from ipython notebook
